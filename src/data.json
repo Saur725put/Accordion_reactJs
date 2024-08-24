@@ -1,0 +1,20 @@
+{
+  "faqs": [
+    {
+      "question": "what is frontend development ?",
+      "answer": "Front-end development is the process of designing and building the graphical user interface (GUI) of a website or app, including the parts that users interact with."
+    },
+    {
+      "question": "what is Java ?",
+      "answer": "Java is a well-known, general-purpose, object-oriented programming language that's used to create applications for many different types of devices and platforms"
+    },
+    {
+      "question": "what is JavaScript and its features ?",
+      "answer": "JavaScript (JS) is a programming language that developers use to make web pages more interactive. It's a client-side scripting language that's considered a core technology of the World Wide Web."
+    },
+    {
+      "question": "what is polymorphism in java",
+      "answer": "Polymorphism in Java is a core concept of object-oriented programming (OOP) that allows objects of different classes to be treated as objects of a common superclass or interface. It means many forms and refers to the ability of an object to take on multiple forms."
+    }
+  ]
+}
